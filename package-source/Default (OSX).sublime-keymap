@@ -59,6 +59,5 @@
   { "keys": ["ctrl+x", "ctrl+s"], "command": "save" },
   { "keys": ["ctrl+x", "b"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
   { "keys": ["ctrl+s"], "command": "show_panel", "args": {"panel": "incremental_find", "reverse": false} },
-  { "keys": ["ctrl+t"], "command": "toggle_side_bar" },
   { "keys": ["ctrl+r"], "command": "show_panel", "args": {"panel": "incremental_find", "reverse": true} }
 ]
