@@ -21,7 +21,7 @@ At least on OS X I was not able to simply double-click a package file to install
 it, so I had to do the following: 
 
 * Quit ST2
-* Copy EmacsifySublimeText.sublime-package to your <DATADIR>/Installed Packages folder
+* Copy EmacsifySublimeText.sublime-package to your DATADIR/Installed Packages folder
 * Restart ST2. 
 
 You may have to create the "Installed Packages" folder manually first.
@@ -41,7 +41,8 @@ do kill-region. If not, expand the selection. For me, this works quite well, but
 something you should be aware of.
 
 ## Contribute
-Please fork and add pull requests if you would like to improve this package.
+The source files for the package is in the "package-source" directory. Please fork and add pull requests 
+if you would like to improve this package.
 
 ## Author
 Stian Grytøyr (stian at grytoyr dot net)
