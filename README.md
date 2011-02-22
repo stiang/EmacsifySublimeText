@@ -45,6 +45,7 @@ The source files for the package is in the "package-source" directory. Please fo
 if you would like to improve this package.
 
 ## Author
-Stian Grytøyr (stian at grytoyr dot net)
+[Stian Grytøyr][2]
 
 [1]: http://www.sublimetext.com/2
+[2]: http://stian.grytoyr.net/about/
